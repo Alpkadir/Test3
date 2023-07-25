@@ -1,0 +1,10 @@
+HELLO WOLRD
+
+
+    one_number = int(input("Please enter a number:"))
+    number _two = int(input("Please enter a number:"))
+    division = one_number / number_two
+    print(f"The result is:{ division})
+    break
+
+
